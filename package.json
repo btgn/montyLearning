@@ -1,0 +1,12 @@
+{
+  "name": "montybhai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "node --nolazy --inspect-brk=9229 hello.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
