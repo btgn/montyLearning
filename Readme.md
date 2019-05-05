@@ -1,8 +1,7 @@
 # Front End Crash Course
 
 ## Prerequisites
-
-    Success is about dedication. You may not be where you want to be or do what you want to do when you're on the journey. But you've got to be willing to have vision and foresight that leads you to an incredible end
+> Success is about dedication. You may not be where you want to be or do what you want to do when you're on the journey. But you've got to be willing to have vision and foresight that leads you to an incredible end
 
 1. [ HTML ](#html)
 
