@@ -1,11 +1,11 @@
 # Front End Crash Course
 
 ## Prerequisites
-> Success is about dedication. You may not be where you want to be or do what you want to do when you're on the journey. But you've got to be willing to have vision and foresight that leads you to an incredible end
+
+> Success is all about dedication. You may not be where you want to be or do what you want to do when you're on the journey. But you've got to be willing to have vision and foresight that leads you to an incredible end
 
 1. [ HTML ](#html)
-
-   - What is HTML?
+   - [ What is HTML? ](#wahtml)
    - Tags & Attributes
    - Page Structure
    - Meta Tags
@@ -14,10 +14,8 @@
    - Tables & Lists
    - Block vs Inline
    - Div, Span, ID & Class
-   - Entitties & HTML 5 Semantic Tags
-
+   - Entitties & HTML 5 Semantic Tags [https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/]
 2. [ CSS ](#css)
-
    - Implementing CSS
    - Using Selectors
    - Fonts, Colors etc
@@ -30,9 +28,7 @@
    - Positioning
    - Form Styling
    - DEV Tools
-
 3. [ NodeJS ](#nodejs)
-
    - Datatypes
    - Comments, Operators
    - Arrays and Objects
@@ -41,9 +37,7 @@
    - Functions and Arrow Functions
    - Async Codes and Promises
    - Working with npm packages
-
 4. [ Express ](#express)
-
    - Creating a local server
    - Adding Middleware
    - Handling different Routes
@@ -56,6 +50,7 @@
    - Using Helper Function for Navigation
 
 <a name="html"></a>
+<a name="wahtml"></a>
 <a name="css"></a>
 <a name="nodejs"></a>
 <a name="express"></a>
